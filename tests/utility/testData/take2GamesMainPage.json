@@ -1,0 +1,42 @@
+{
+
+
+    "landingPage": [
+
+        {
+            "logo":"filledInitialForm.png",
+            "games":"Rockstar Games",
+            "url":"https://www.rockstargames.com/"
+
+        },
+
+        {
+            "logo":"filledInitialForm.png",
+            "games":"2K",
+            "url":"https://store.2k.com/"
+
+        },
+
+        {
+            "logo":"filledInitialForm.png",
+            "games":"Zynga",
+            "url":"https://www.zynga.com/"
+
+        },
+
+        {
+            "logo":"filledInitialForm.png",
+            "games":"Private Division",
+            "url":"https://store.privatedivision.com/"
+
+        }
+
+
+    ]
+
+
+
+
+
+
+}
